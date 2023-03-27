@@ -1,3 +1,3 @@
 # MIPRO-2023
 
-Usable version that accepts queries is hosted on [HuggingFace Space](https://huggingface.co/spaces/TamedWicked/mipro-2023-ner).
+Model is hosted on [HuggingFace](https://huggingface.co/TamedWicked/mipro-ner) and accepts user queries.
